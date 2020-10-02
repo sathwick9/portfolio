@@ -1,6 +1,6 @@
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-<a href="https://sathwick.netlify.app/">Portfolio</a>
+#### <a href="https://sathwick.netlify.app/">Portfolio</a>
 
 ## Make it Your Own!
 #### PREREQUISITES:
