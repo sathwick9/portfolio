@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name": "Sathwick Paladugu",
+    "occupation": "Student",
+    "description": "currently studying for my Bachelor's  in Electronics and Communications Engineering",
+    "image": "profile.png",
+    "bio": "My name is Sathwick. I love coding because with just a few lines of code I can turn my ideas into reality, which potentially can impact the world and shape the future.",
+    "bio2": "I learned the basics of programming in Java during my Bachlors and I gained intrest in coading .I have done project related to car pedestrian detection system using haar cascade algoitham. ",
+    "bio3": "I'm currently studying at the Mahatma Gandhi Institute Of Technology ,Hyderabad for my Bachelor's in Electronics and Communications Engineering.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "phone": "+91 7702803371",
+    "email":"paladugu.sathwick@gmail.com",
+    "address": {
+      "street": "Green Hills Road no:1",
+      "city": "kothapet",
+      "state": "Hyderabad",
+      "zip": "500038"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1qq2gGIknvcuv8RiXoECysLAam-Oh1w61/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sathwick-paladugu-1311a852/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sathwick9",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/wickey007/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Mahatma Gandhi Institute of Technology",
+        "degree": "Bachelor of Technology in Electronics and Communications Engineering",
+        "graduated": "September 2017 - Present"
+      }
+    ],
+    "work": [
+      {
+        "company": "Biztime IT solutions ",
+        "title": "Web Developer",
+        "years": "May 2020 - September 2020",
+        "description": "Involved in a project called Zonaldesk Workforce - Grievance Redressal. Objective was to create platform for workers to express their grievances / problems freely and frankly, without any fear of being victimized. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "75%",
+        "icon": "python.png"
+      },
+      {
+        "name": "Java",
+        "level": "70%",
+        "icon": "java.jpg"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%",
+        "icon": "reactjs.png"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%",
+        "icon": "html5.svg"
+      },
+      {
+        "name": "CSS",
+        "level": "70%",
+        "icon": "css.png"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%",
+        "icon": "javascript.jpg"
+      },
+      {
+        "name": "Git",
+        "level": "80%",
+        "icon": "git.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon_clone",
+        "category": "Amazon Clone Using ReactJS",
+        "image": "Amazon.PNG",
+        "url": "https://clone-dd52b.web.app/"
+      },
+      {
+        "title": "Resturant site ",
+        "category": "Resturant site using HTML,JS,CSS",
+        "image": "Resturant.PNG",
+        "url": "https://sathwick9.github.io/Restaurant-site/"
+      }
+
+    ]
+  }
+}
